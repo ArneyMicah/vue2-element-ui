@@ -1,2 +1,2 @@
 # vue2-element-ui-
-后台管理系统
+基于 vue + element-ui 的后台管理系统
